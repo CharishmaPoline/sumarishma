@@ -33,7 +33,7 @@ import Welcome from "./pages/Welcome";
 
 // Sections data
 const sections = [
-  { name: "Business", route: "/business", icon: <FaBriefcase size={26} /> },
+  { name: "Business", route: "/Business", icon: <FaBriefcase size={26} /> },
   { name: "IT Skills", route: "/it-skills", icon: <FaLaptopCode size={26} /> },
   { name: "Jobs", route: "/jobs", icon: <FaBuilding size={26} /> },
   { name: "Music", route: "/music" },
